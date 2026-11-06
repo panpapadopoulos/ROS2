@@ -1,0 +1,8 @@
+<library path="beginner_polygons">
+  <class type="beginner_plugins::Square" base_class_type="beginner_plugins::Polygon">
+    <description>Area of a square.</description>
+  </class>
+  <class type="beginner_plugins::Triangle" base_class_type="beginner_plugins::Polygon">
+    <description>Area of an equilateral triangle.</description>
+  </class>
+</library>
